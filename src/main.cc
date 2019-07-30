@@ -3,6 +3,8 @@
 #include "clip_win.h"
 #elif __APPLE__
 #include "clip_osx.h"
+#else
+#include "clip_linux.h"
 #endif
 
 namespace clipboard

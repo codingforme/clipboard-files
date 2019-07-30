@@ -1,6 +1,6 @@
 {
-	"name": "clipboard-files",
-	"version": "0.0.7",
+	"name": "electron-clipboard-files",
+	"version": "0.0.3",
 	"description": "A nodejs addon, read file path from clipboard, support win32 and mac osx",
 	"main": "./lib/index.js",
 	"directories": {
